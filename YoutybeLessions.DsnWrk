@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=DCDC_Multibord\DCDC_Multibord.PrjMbd
+[Project2]
+ProjectPath=..\..\SSSAlDataBaseLib\SSSADDataBaseLib.PrjPcb
+[Project3]
+ProjectPath=DCDC_Multibord\DCDC_Motherbord\DCDC_Motherbord.PrjPcb
+[Project4]
+ProjectPath=DCDC_Multibord\DCDC_Top\DCDC_Top.PrjPcb
