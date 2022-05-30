@@ -1,2 +1,6 @@
 
 *.Zip
+*.SchDocPreview
+*.mdPreview
+*.LOG
+*.html
