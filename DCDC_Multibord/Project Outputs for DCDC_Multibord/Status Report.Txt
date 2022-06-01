@@ -1,0 +1,23 @@
+Source PCB Design Panel.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [DCDC_Multibord.PrjMbd]
+   Generated File[Panel_Legend_Top.gbr]
+   Generated File[Panel_Paste_Top.gbr]
+   Generated File[Panel_Soldermask_Top.gbr]
+   Generated File[Panel.GTL]
+   Generated File[Panel.GBL]
+   Generated File[Panel_Soldermask_Bot.gbr]
+   Generated File[Panel_Paste_Bot.gbr]
+   Generated File[Panel_Legend_Bot.gbr]
+   Generated File[Panel_Profile.gbr]
+   Generated File[Panel.RUL]
+   Generated File[Panel.EXTREP]
+   Generated File[Panel.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 22:33:54 On 01.06.2022
