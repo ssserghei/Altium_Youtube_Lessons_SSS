@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Youtube_Multiboard.PrjMbd
+[Project2]
+ProjectPath=Youtube_Motherboard\Youtube_Motherboard.PrjPcb
+[Project3]
+ProjectPath=Youtube_Top\Youtube_Top.PrjPcb

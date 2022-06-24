@@ -1,6 +1,7 @@
     # Altium_Youtube_Lessons_SSS
 Проектирование устройств из нескольких электронных модулей_AD
                https://www.altium.com/ru/documentation/altium-designer/multi-board-design-overview?version=18.1
+               https://www.altium.com/ru/documentation/altium-designer/capturing-logical-system-design?version=18.1
 Сопряжение
                https://www.altium.com/ru/documentation/altium-designer/creating-physical-multi-board-assembly
 ActiveBOM_AD
